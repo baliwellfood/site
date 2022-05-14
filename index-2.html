@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from livewp.site/html/soho/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 14 May 2022 03:28:50 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="img/apple_icons_57x57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="img/apple_icons_72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="img/apple_icons_114x114.png">
+<title>Soho | Html Photography Template</title>
+<link href="http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,700,900" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/theme.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/responsive.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/custom.css" type="text/css" media="all" />
+</head>
+<body>
+	
+    <div class="landing_preloader"></div>
+    <a href="fullscreen_slider.html" class="landing_logo loading type1 circle"><img src="img/landing_logo.png" alt="" class="logo_def"><img src="img/retina/landing_logo.png" alt="" class="logo_retina"></a>
+    
+    <div class="custom_bg img_bg def_img opacity0"></div>
+    
+    <script type="text/javascript" src="js/jquery.min.js"></script>    
+    <script type="text/javascript" src="js/modules.js"></script>
+	<script type="text/javascript" src="js/theme.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script>
+		function start_preloader() {
+			"use strict";
+			jQuery('.landing_preloader').animate({'width' : '100%'},3000, function(){
+				jQuery('.landing_logo').removeClass('loading');
+			});
+		}
+		jQuery(document).ready(function() {
+			"use strict";
+			if (jQuery('.landing_logo').find('img').height() > jQuery('.landing_logo').find('img').width()) {
+				var set_a_size = jQuery('.landing_logo').find('img').height();
+			} else {
+				var set_a_size = jQuery('.landing_logo').find('img').width();
+				jQuery('.landing_logo').find('img').css('margin-top', (set_a_size - jQuery('.landing_logo').find('img').height())/2-13+'px');
+			}
+			jQuery('.landing_logo').css({'margin-top' : '-'+(set_a_size/2+52)+'px', 'margin-left' : '-'+(set_a_size/2+52)+'px'}).width(set_a_size).height(set_a_size);
+			var preloadertimer = setTimeout(function(){
+				jQuery('.custom_bg').animate({'opacity' : '1'}, 1000);
+				start_preloader();
+				clearTimeout(preloadertimer);
+			}, 500);
+		});		
+	</script>    
+</body>
+
+<!-- Mirrored from livewp.site/html/soho/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 14 May 2022 03:28:50 GMT -->
+</html>
