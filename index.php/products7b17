@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/components/com_tz_portfolio_plus/addons/content/vote/css/vote.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_tz_portfolio_plus/css/style/elegant/style-1de4-06eae91c492910b8219cfa8233e94e82.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<title type="text">Products</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://baressco.jollyany.co"/>
+	<id>https://baressco.jollyany.co/index.php/products</id>
+	<updated>2022-05-15T04:31:09+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://baressco.jollyany.co/index.php/products?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Baressco Orange</title>
+		<link rel="alternate" type="text/html" href="https://baressco.jollyany.co/index.php/products/baressco-orange/4"/>
+		<published>2022-03-30T08:50:34+00:00</published>
+		<updated>2022-03-30T08:50:34+00:00</updated>
+		<id>https://baressco.jollyany.co/index.php/products/baressco-orange/4</id>
+		<author>
+			<name>Victoria Anderson</name>
+			<email>victoriars@gmail.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://baressco.jollyany.co//index.php/products/baressco-orange/4&quot;&gt;&lt;img src=&quot;https://baressco.jollyany.co/media/tz_portfolio_plus/article/cache/baressco-orange-4_o.png&quot; alt=&quot;Baressco Orange&quot;/&gt;&lt;/a&gt;&lt;p&gt;Appealing nose of pepper, and raspberry. Layered plum, blackberry and cocoa on the palate with chalky tannins and a lingering finish.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://baressco.jollyany.co//index.php/products/baressco-orange/4&quot;&gt;&lt;img src=&quot;https://baressco.jollyany.co/media/tz_portfolio_plus/article/cache/baressco-orange-4_o.png&quot; alt=&quot;Baressco Orange&quot;/&gt;&lt;/a&gt;&lt;p&gt;Appealing nose of pepper, and raspberry. Layered plum, blackberry and cocoa on the palate with chalky tannins and a lingering finish.&lt;/p&gt;
+</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Baressco Yellow</title>
+		<link rel="alternate" type="text/html" href="https://baressco.jollyany.co/index.php/products/baressco-yellow/3"/>
+		<published>2022-03-30T08:41:37+00:00</published>
+		<updated>2022-03-30T08:41:37+00:00</updated>
+		<id>https://baressco.jollyany.co/index.php/products/baressco-yellow/3</id>
+		<author>
+			<name>Victoria Anderson</name>
+			<email>victoriars@gmail.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://baressco.jollyany.co//index.php/products/baressco-yellow/3&quot;&gt;&lt;img src=&quot;https://baressco.jollyany.co/media/tz_portfolio_plus/article/cache/baressco-yellow-3_o.png&quot; alt=&quot;Baressco Yellow&quot;/&gt;&lt;/a&gt;&lt;p&gt;Made with a blend of sugar cane “from eight different countries” in the Caribbean and South America, the bottle contains a blend of rums, some aged as long as 15 years.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://baressco.jollyany.co//index.php/products/baressco-yellow/3&quot;&gt;&lt;img src=&quot;https://baressco.jollyany.co/media/tz_portfolio_plus/article/cache/baressco-yellow-3_o.png&quot; alt=&quot;Baressco Yellow&quot;/&gt;&lt;/a&gt;&lt;p&gt;Made with a blend of sugar cane “from eight different countries” in the Caribbean and South America, the bottle contains a blend of rums, some aged as long as 15 years.&lt;/p&gt;
+</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Baressco Forest</title>
+		<link rel="alternate" type="text/html" href="https://baressco.jollyany.co/index.php/products/baressco-forest/6"/>
+		<published>2022-03-30T08:41:37+00:00</published>
+		<updated>2022-03-30T08:41:37+00:00</updated>
+		<id>https://baressco.jollyany.co/index.php/products/baressco-forest/6</id>
+		<author>
+			<name>Victoria Anderson</name>
+			<email>victoriars@gmail.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://baressco.jollyany.co//index.php/products/baressco-forest/6&quot;&gt;&lt;img src=&quot;https://baressco.jollyany.co/media/tz_portfolio_plus/article/cache/baressco-forest-6_o.png&quot; alt=&quot;Baressco Forest&quot;/&gt;&lt;/a&gt;&lt;p&gt;Mauri Dry Vermouth is a complex formula that incorporate a blend of wines from various regions, and infusions of provincial spices, and flavors.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://baressco.jollyany.co//index.php/products/baressco-forest/6&quot;&gt;&lt;img src=&quot;https://baressco.jollyany.co/media/tz_portfolio_plus/article/cache/baressco-forest-6_o.png&quot; alt=&quot;Baressco Forest&quot;/&gt;&lt;/a&gt;&lt;p&gt;Mauri Dry Vermouth is a complex formula that incorporate a blend of wines from various regions, and infusions of provincial spices, and flavors.&lt;/p&gt;
+</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Baressco Red</title>
+		<link rel="alternate" type="text/html" href="https://baressco.jollyany.co/index.php/products/baressco-red/2"/>
+		<published>2022-03-30T08:26:55+00:00</published>
+		<updated>2022-03-30T08:26:55+00:00</updated>
+		<id>https://baressco.jollyany.co/index.php/products/baressco-red/2</id>
+		<author>
+			<name>Victoria Anderson</name>
+			<email>victoriars@gmail.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://baressco.jollyany.co//index.php/products/baressco-red/2&quot;&gt;&lt;img src=&quot;https://baressco.jollyany.co/media/tz_portfolio_plus/article/cache/baressco-red-2_o.png&quot; alt=&quot;Baressco Red&quot;/&gt;&lt;/a&gt;&lt;p&gt;Perfectly pure and colorless. This young rum immediately develops an intense aromatic richness, with sweet notes of banana, mango and nougat.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://baressco.jollyany.co//index.php/products/baressco-red/2&quot;&gt;&lt;img src=&quot;https://baressco.jollyany.co/media/tz_portfolio_plus/article/cache/baressco-red-2_o.png&quot; alt=&quot;Baressco Red&quot;/&gt;&lt;/a&gt;&lt;p&gt;Perfectly pure and colorless. This young rum immediately develops an intense aromatic richness, with sweet notes of banana, mango and nougat.&lt;/p&gt;
+</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Baressco Barton</title>
+		<link rel="alternate" type="text/html" href="https://baressco.jollyany.co/index.php/products/baressco-barton/5"/>
+		<published>2022-03-30T08:26:55+00:00</published>
+		<updated>2022-03-30T08:26:55+00:00</updated>
+		<id>https://baressco.jollyany.co/index.php/products/baressco-barton/5</id>
+		<author>
+			<name>Victoria Anderson</name>
+			<email>victoriars@gmail.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://baressco.jollyany.co//index.php/products/baressco-barton/5&quot;&gt;&lt;img src=&quot;https://baressco.jollyany.co/media/tz_portfolio_plus/article/cache/baressco-barton-5_o.png&quot; alt=&quot;Baressco Barton&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nikka Cofey Gin is distilled from corn and malted barley in a five-still distillation process at the Miyagikyo Disitllery near Sendai.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://baressco.jollyany.co//index.php/products/baressco-barton/5&quot;&gt;&lt;img src=&quot;https://baressco.jollyany.co/media/tz_portfolio_plus/article/cache/baressco-barton-5_o.png&quot; alt=&quot;Baressco Barton&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nikka Cofey Gin is distilled from corn and malted barley in a five-still distillation process at the Miyagikyo Disitllery near Sendai.&lt;/p&gt;
+</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Baressco Rose</title>
+		<link rel="alternate" type="text/html" href="https://baressco.jollyany.co/index.php/products/baressco-rose/1"/>
+		<published>2022-03-30T02:17:09+00:00</published>
+		<updated>2022-03-30T02:17:09+00:00</updated>
+		<id>https://baressco.jollyany.co/index.php/products/baressco-rose/1</id>
+		<author>
+			<name>Victoria Anderson</name>
+			<email>victoriars@gmail.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://baressco.jollyany.co//index.php/products/baressco-rose/1&quot;&gt;&lt;img src=&quot;https://baressco.jollyany.co/media/tz_portfolio_plus/article/cache/baressco-rose-1_o.png&quot; alt=&quot;Baressco Rose&quot;/&gt;&lt;/a&gt;&lt;p&gt;This round and complex rum is matured between 5 to 17 years in American whiskey, bourbon and cognac casks.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://baressco.jollyany.co//index.php/products/baressco-rose/1&quot;&gt;&lt;img src=&quot;https://baressco.jollyany.co/media/tz_portfolio_plus/article/cache/baressco-rose-1_o.png&quot; alt=&quot;Baressco Rose&quot;/&gt;&lt;/a&gt;&lt;p&gt;This round and complex rum is matured between 5 to 17 years in American whiskey, bourbon and cognac casks.&lt;/p&gt;
+</content>
+		<category term="Uncategorised" />
+	</entry>
+</feed>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<error>
+	<code>0</code>
+	<message>Cannot access protected property Joomla\CMS\Menu\MenuItem::$params</message>
+</error>
