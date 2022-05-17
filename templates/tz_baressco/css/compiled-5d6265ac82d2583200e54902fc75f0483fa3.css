@@ -9608,7 +9608,7 @@ header .logo-wrapper {
 }
 .astroid-logo img {
   max-width: 250px;
-  max-height: 65px;
+  max-height: 30px;
 }
 .astroid-logo .astroid-logo-mobile {
   max-width: 100%;
@@ -12518,7 +12518,7 @@ ul.categories-module li a {
   width: 20% !important;
 }
 .astroid-logo img {
-  max-height: 100px;
+  max-height: 30px;
 }
 /* ========================================================================
    Component: Base
